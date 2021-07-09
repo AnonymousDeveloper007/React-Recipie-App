@@ -1,0 +1,17 @@
+./src/components/Burger/OrderSummary/OrderSummary.js
+Module not found: Can't resolve '../../../HigherOrderComponents/Aux' in 'G:\Web Development Bootacamp\React Projects\burger-builder\src\components\Burger\OrderSummary'
+
+./src/components/Navigation/SideDrawer/SideDrawer.js
+Module not found: Can't resolve '../../../HigherOrderComponents/Aux' in 'G:\Web Development Bootacamp\React Projects\burger-builder\src\components\Navigation\SideDrawer'
+
+./src/components/UI/Modal/Modal.js
+Module not found: Can't resolve '../../../HigherOrderComponents/Aux' in 'G:\Web Development Bootacamp\React Projects\burger-builder\src\components\UI\Modal'
+
+./src/containers/BurgerBuilder/BurgerBuilder.js
+Module not found: Can't resolve '../../HigherOrderComponents/Aux' in 'G:\Web Development Bootacamp\React Projects\burger-builder\src\containers\BurgerBuilder'
+
+./src/HigherOrderComponents/Layout/Layout.js
+Module not found: Can't resolve '../Aux' in 'G:\Web Development Bootacamp\React Projects\burger-builder\src\HigherOrderComponents\Layout'
+
+./src/HigherOrderComponents/withErrorHandler/withErrorHandler.js
+Module not found: Can't resolve '../Aux' in 'G:\Web Development Bootacamp\React Projects\burger-builder\src\HigherOrderComponents\withErrorHandler'
